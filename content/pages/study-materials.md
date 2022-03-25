@@ -260,7 +260,7 @@ Peter Eisenman
 {{< tdopen >}}
 
 
-Eisenman, Peter. _Denkmal für die ermordeten Juden Europas_. Berlin, Germany. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.8MB]({{< baseurl >}}/resources/mit21g_412f09_eisenman)) (Courtesy of Peter Eisenman. Used with permission.)
+Eisenman, Peter. _Denkmal für die ermordeten Juden Europas_. Berlin, Germany. ([PDF - 3.8MB]({{< baseurl >}}/resources/mit21g_412f09_eisenman)) (Courtesy of Peter Eisenman. Used with permission.)
 
 [Memorial to the Murdered Jews of Europe on Wikimedia Commons](http://commons.wikimedia.org/wiki/Category:Memorial_to_the_Murdered_Jews_of_Europe)
 {{< tdclose >}}
@@ -314,11 +314,11 @@ Dörrie, Doris. _Keiner liebt mich_. Germany: Cobra Film, 1995.
 
 ———. "Orfeo." _Für immer und ewig: Eine Art Reigen_. Zürich, Switzerland: Diogenes, 1993. ISBN: 9783257225723.
 
-Löhndorf, Marion. "Das Jammern ist des Singles Lust." _Frankfurter Allgemeine Zeitung_, January 17, 1995. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.deutsches-filminstitut.de/sozialgeschichte/mov/r047a.pdf))
+Löhndorf, Marion. "Das Jammern ist des Singles Lust." _Frankfurter Allgemeine Zeitung_, January 17, 1995. ([PDF](http://www.deutsches-filminstitut.de/sozialgeschichte/mov/r047a.pdf))
 
-Kühn, Heike. "Böse Witze & mystiche Einflüsterungen." _Frankfurter Rundschau_, January 12, 1995. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.deutsches-filminstitut.de/sozialgeschichte/mov/r047b.pdf))
+Kühn, Heike. "Böse Witze & mystiche Einflüsterungen." _Frankfurter Rundschau_, January 12, 1995. ([PDF](http://www.deutsches-filminstitut.de/sozialgeschichte/mov/r047b.pdf))
 
-Buchka, Peter. "Deutschland, ein Faschingsmärchen." _Süddeutsche Zeitung_, January 12, 1995. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.deutsches-filminstitut.de/sozialgeschichte/mov/r047c.pdf))
+Buchka, Peter. "Deutschland, ein Faschingsmärchen." _Süddeutsche Zeitung_, January 12, 1995. ([PDF](http://www.deutsches-filminstitut.de/sozialgeschichte/mov/r047c.pdf))
 
 
 {{< tdclose >}}
